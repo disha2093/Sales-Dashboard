@@ -1,4 +1,4 @@
-# 📊 Sales Analytics Dashboard | Power BI + SQL  
+# 📊 Sales Analytics Dashboard | Excel
 
 ## 🚀 Project Overview  
 This project focuses on analyzing sales data and building an interactive dashboard to track performance, identify trends, and support data-driven decision-making.
@@ -36,7 +36,8 @@ This project focuses on analyzing sales data and building an interactive dashboa
 ---
 
 ## 📸 Dashboard Preview  
-(Add screenshots here)
+<img width="1555" height="715" alt="image" src="https://github.com/user-attachments/assets/84bd8c31-b7a7-4e38-bca2-eb09588382d2" />
+
 
 ---
 
